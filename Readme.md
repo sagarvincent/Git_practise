@@ -1,3 +1,3 @@
-#mardown headings are marked with a hash
+#markdown_heading
 
-Start f git tutorials !!
+Start of git tutorials !!
